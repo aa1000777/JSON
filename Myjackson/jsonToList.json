@@ -1,0 +1,211 @@
+[
+    {
+        "BaseID": 150,
+        "BaseName": "竹林菌菇区",
+        "BaseVideoCount": 8,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "竹林4视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11180",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林2视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11185",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林1视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11190",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林7视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11192",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林8视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11193",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林5视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11194",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林6视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11195",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "竹林3视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11198",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    },
+    {
+        "BaseID": 162,
+        "BaseName": "林下菌菇区",
+        "BaseVideoCount": 6,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "树林2视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11182",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "树林1视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11183",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "树林5视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11184",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "树林6视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11186",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "树林3视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11187",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "树林4视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11189",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    },
+    {
+        "BaseID": 165,
+        "BaseName": "路口",
+        "BaseVideoCount": 1,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "水池球机视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11188",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    },
+    {
+        "BaseID": 166,
+        "BaseName": "小水池",
+        "BaseVideoCount": 1,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "小水池视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11191",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    },
+    {
+        "BaseID": 167,
+        "BaseName": "山顶",
+        "BaseVideoCount": 1,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "山顶球机视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11196",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    },
+    {
+        "BaseID": 168,
+        "BaseName": "气象站",
+        "BaseVideoCount": 1,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "气象站视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11199",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    },
+    {
+        "BaseID": 169,
+        "BaseName": "葡萄棚",
+        "BaseVideoCount": 2,
+        "lstVideoInfos": [
+            {
+                "videoDesc": "葡萄棚1视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11181",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            },
+            {
+                "videoDesc": "葡萄棚2视频采集器",
+                "videoIP": "171.221.223.206",
+                "videoPort": "11197",
+                "videoPwd": "admin8888",
+                "videoType": null,
+                "videoUserName": "admin"
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "country": "USA",
+    "orgood": true,
+    "countryInfo": {
+        "golden": 40,
+        "silver": 23,
+        "copper": 33,
+        "tank": 1
+    },
+    "countryDetail": [
+        {
+            "id": "no",
+            "header": "号码",
+            "fieldIndex": "no",
+            "sortOrder": null,
+            "printable": true
+        },
+        {
+            "id": "name",
+            "header": "姓名",
+            "fieldIndex": "name",
+            "sortOrder": null,
+            "printable": true
+        },
+        {
+            "id": "total",
+            "header": "总成绩",
+            "fieldIndex": "total",
+            "sortOrder": null,
+            "printable": true
+        },
+        {
+            "id": "detail",
+            "header": "详细信息",
+            "fieldIndex": "detail",
+            "sortOrder": null,
+            "printable": true
+        }
+    ]
+}
